@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|c:\\users\\nikhil\\source\\repos\\road-construction-server\\road-construction-server\\wwwroot\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|solutionrelative:road-construction-server\\wwwroot\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|c:\\users\\nikhil\\source\\repos\\road-construction-server\\road-construction-server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|solutionrelative:road-construction-server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|c:\\users\\nikhil\\source\\repos\\road-construction-server\\road-construction-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|solutionrelative:road-construction-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|c:\\users\\nikhil\\source\\repos\\road-construction-server\\road-construction-server\\wwwroot\\observations.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|solutionrelative:road-construction-server\\wwwroot\\observations.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|c:\\users\\nikhil\\source\\repos\\road-construction-server\\road-construction-server\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|solutionrelative:road-construction-server\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|c:\\users\\nikhil\\source\\repos\\road-construction-server\\road-construction-server\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|solutionrelative:road-construction-server\\models\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|c:\\users\\nikhil\\source\\repos\\road-construction-server\\road-construction-server\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|solutionrelative:road-construction-server\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|c:\\users\\nikhil\\source\\repos\\road-construction-server\\road-construction-server\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|solutionrelative:road-construction-server\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|c:\\users\\nikhil\\source\\repos\\road-construction-server\\road-construction-server\\road-construction-server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09C76154-BC4D-467F-8E99-4FDD89E23A44}|ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj|solutionrelative:road-construction-server\\road-construction-server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\Services\\IDataService.cs",
+              "RelativeDocumentMoniker": "ROAD-CONSTRUCTION-SERVER\\Services\\IDataService.cs",
+              "ToolTip": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\Services\\IDataService.cs",
+              "RelativeToolTip": "ROAD-CONSTRUCTION-SERVER\\Services\\IDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:21:25.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ROAD-CONSTRUCTION-SERVER.csproj",
+              "DocumentMoniker": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj",
+              "RelativeDocumentMoniker": "ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj",
+              "ToolTip": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj",
+              "RelativeToolTip": "ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T11:18:37.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\appsettings.json",
+              "RelativeDocumentMoniker": "ROAD-CONSTRUCTION-SERVER\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\appsettings.json",
+              "RelativeToolTip": "ROAD-CONSTRUCTION-SERVER\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T14:52:08.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\Models\\DataModel.cs",
+              "RelativeDocumentMoniker": "ROAD-CONSTRUCTION-SERVER\\Models\\DataModel.cs",
+              "ToolTip": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\Models\\DataModel.cs",
+              "RelativeToolTip": "ROAD-CONSTRUCTION-SERVER\\Models\\DataModel.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:11:24.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "ROAD-CONSTRUCTION-SERVER\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\Controllers\\DataController.cs",
+              "RelativeToolTip": "ROAD-CONSTRUCTION-SERVER\\Controllers\\DataController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAawCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:48:30.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "ROAD-CONSTRUCTION-SERVER\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\Services\\DataService.cs",
+              "RelativeToolTip": "ROAD-CONSTRUCTION-SERVER\\Services\\DataService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAA+wEgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:23:06.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "observations.json",
+              "DocumentMoniker": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\wwwroot\\observations.json",
+              "RelativeDocumentMoniker": "ROAD-CONSTRUCTION-SERVER\\wwwroot\\observations.json",
+              "ToolTip": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\wwwroot\\observations.json",
+              "RelativeToolTip": "ROAD-CONSTRUCTION-SERVER\\wwwroot\\observations.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T14:01:59.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\wwwroot\\data.json",
+              "RelativeDocumentMoniker": "ROAD-CONSTRUCTION-SERVER\\wwwroot\\data.json",
+              "ToolTip": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\wwwroot\\data.json",
+              "RelativeToolTip": "ROAD-CONSTRUCTION-SERVER\\wwwroot\\data.json",
+              "ViewState": "AQIAADQAAAAAAAAAAADwv0sAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T14:20:41.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\Program.cs",
+              "RelativeDocumentMoniker": "ROAD-CONSTRUCTION-SERVER\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\Program.cs",
+              "RelativeToolTip": "ROAD-CONSTRUCTION-SERVER\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T11:26:02.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 100,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

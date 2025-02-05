@@ -1,1 +1,115 @@
-/* You can add global styles to this file, and also import other style files */
+/*  Table Styling  */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/*  Table Header Design */
+.table thead {
+    background-color: #3E68FF; /* Dark Blue Header */
+    color: white;
+    font-size: 18px;
+}
+
+/*  Table Border and Cell Styling */
+.table-bordered th, 
+.table-bordered td {
+    border: 2px solid #3E68FF;
+    padding: 12px;
+    text-align: center;
+    font-size: 16px;
+}
+
+
+/*  Text Alignment and Centering */
+.text-center {
+    text-align: center;
+}
+
+.align-middle {
+    vertical-align: middle;
+}
+
+/*  Loading Message Styling */
+.alert-warning {
+    font-weight: bold;
+    font-size: 18px;
+    color: red;
+    text-align: center;
+    padding: 10px;
+}
+
+/*  Container Styling */
+.container {
+    margin-top: 20px;
+    padding: 20px;
+    max-width: 900px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/*  Background Image */
+body {
+    background-image: url('https://images.pexels.com/photos/15456924/pexels-photo-15456924/free-photo-of-yellow-road-roller-near-road.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/*  Button and Form Consistency */
+.btn-primary {
+    background-color: #3E68FF;
+    border-color: #3E68FF;
+}
+
+.form-control {
+    border-radius: 5px;
+    box-shadow: none;
+}
+
+/*  Ensure Consistency Between Pages for Forms */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/*  Active List Item Highlight */
+.list-group-item.active {
+    background-color: #3E68FF;
+    color: white;
+}
+
+/* Tab Layout  Profile View, Change Password , Change Email */
+/*Ex     */
+.meta-tabs .tab-content .page-sub-head {
+    margin: 0 0 32px 0;
+}
+
+.meta-tabs ul {
+    margin: 0 0 24px 0;
+    display: flex;
+    gap: 24px; /* Modern CSS with flexbox for spacing */
+}
+
+.meta-tabs ul li .nav-link {
+    padding: 17px 0;
+    border: 0 !important;
+    color: #3E4456 !important;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    border-bottom: 2px solid transparent !important;
+    background-color: #33333303;
+}
+
+.meta-tabs ul li .nav-link.active {
+    border-bottom: 2px solid #3E68FF !important;
+    color: #3E68FF !important;
+}
+
