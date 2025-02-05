@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "UU5xvWSjuZRVwhB92ovMIg4cNqxG1kuBX9BO133scWE=",
+  "Source": "ROAD-CONSTRUCTION-SERVER",
+  "BasePath": "_content/ROAD-CONSTRUCTION-SERVER",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ROAD-CONSTRUCTION-SERVER\\wwwroot",
+      "Source": "ROAD-CONSTRUCTION-SERVER",
+      "ContentRoot": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\wwwroot\\",
+      "BasePath": "_content/ROAD-CONSTRUCTION-SERVER",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\wwwroot\\data.json",
+      "SourceId": "ROAD-CONSTRUCTION-SERVER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\wwwroot\\",
+      "BasePath": "_content/ROAD-CONSTRUCTION-SERVER",
+      "RelativePath": "data.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\data.json"
+    },
+    {
+      "Identity": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\wwwroot\\observations.json",
+      "SourceId": "ROAD-CONSTRUCTION-SERVER",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\wwwroot\\",
+      "BasePath": "_content/ROAD-CONSTRUCTION-SERVER",
+      "RelativePath": "observations.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\observations.json"
+    }
+  ]
+}

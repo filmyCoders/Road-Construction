@@ -1,0 +1,50 @@
+{
+  "Id": 1,
+  "Name": "New Observation",
+  "Datas": [
+    {
+      "SamplingTime": "2021-04-21T11:00:05.5051255+05:30",
+      "Properties": [
+        {
+          "ProjectName": "Road Construction 1",
+
+          "ConstructionConut": 40,
+          {
+            "IsConstructionCompleted": false
+          },
+          "Label": "Length of the road",
+          "Lengthoftheroad": 5.6
+        }
+      ]
+    },
+    {
+      "SamplingTime": "2021-04-22T11:00:05.5081232+05:30",
+      "Properties": [
+        {
+          "Label": "Project Name",
+          "ProjectName": "Road Construction 2"
+        },
+        {
+          "IsConstructionCompleted": true
+        },
+        {
+          "Label": "Length of the road",
+          "Value": 3.2
+        }
+      ]
+    },
+    {
+      "SamplingTime": "2021-04-23T11:00:05.5081232+05:30",
+      "Properties": [
+        {
+          "Label": "Project Name",
+          "Value": "Road Construction 3"
+        },
+        {
+          "Label": "Is Construction Completed",
+          "Value": false
+        }
+      ]
+    }
+  ]
+}

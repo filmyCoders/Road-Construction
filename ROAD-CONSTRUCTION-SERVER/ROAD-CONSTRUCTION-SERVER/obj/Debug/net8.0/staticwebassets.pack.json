@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\wwwroot\\data.json",
+      "PackagePath": "staticwebassets\\data.json"
+    },
+    {
+      "Id": "C:\\Users\\Nikhil\\source\\repos\\ROAD-CONSTRUCTION-SERVER\\ROAD-CONSTRUCTION-SERVER\\wwwroot\\observations.json",
+      "PackagePath": "staticwebassets\\observations.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ROAD-CONSTRUCTION-SERVER.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ROAD-CONSTRUCTION-SERVER.props",
+      "PackagePath": "build\\ROAD-CONSTRUCTION-SERVER.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ROAD-CONSTRUCTION-SERVER.props",
+      "PackagePath": "buildMultiTargeting\\ROAD-CONSTRUCTION-SERVER.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ROAD-CONSTRUCTION-SERVER.props",
+      "PackagePath": "buildTransitive\\ROAD-CONSTRUCTION-SERVER.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
