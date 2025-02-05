@@ -1,0 +1,28 @@
+<div @pageAnimation class="container mt-3">
+  <h2>Summary View</h2>
+  <!---------------------Table View  -------------------------->
+
+  <table class="table table-bordered text-center align-middle" *ngIf="data?.datas?.length">
+    <thead class="table-primary">
+      <tr>
+        <th>Sampling Time</th>
+        <th>Project Name</th>
+        <th>Construction Count</th>
+        <th>Is Construction Completed</th>
+        <th>Length of the road</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of data?.datas">
+        <td>{{ item?.samplingTime | date:'dd-MM-yyyy hh:mm:ss a' }}</td>
+        <td>{{ getProperty(item, 'Project Name') }}</td>
+        <td>{{ getProperty(item, 'Construction Count') || '-' }}</td>
+        <td>{{ getProperty(item, 'Is Construction Completed') }}</td>
+        <td>{{ getProperty(item, 'Length of the road') || '-' }}</td>
+      </tr>
+    </tbody>
+  </table>
+  <!-------------------End Table View -------------------------->
+
+  <div *ngIf="!data?.datas?.length" class="alert alert-warning text-center">Loading data...</div>
+</div>

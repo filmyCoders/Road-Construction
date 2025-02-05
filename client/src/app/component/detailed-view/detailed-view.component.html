@@ -1,0 +1,84 @@
+<div @pageAnimation class="container mt-3">
+  <h2>Details View</h2>
+
+  <div class="row" style="border: 2px solid #3E68FF;
+  padding: 12px;
+  text-align: center;
+  font-size: 16px;">
+
+
+    <!---------------------Sampling Time -------------------------->
+
+    <div class="col-md-4" style="max-height: 300px; overflow-y: auto;">
+      <ul class="list-group">
+        <li *ngFor="let item of data?.datas; let i = index" [class.active]="selectedIndex === i" class="list-group-item"
+          (click)="onSelectSamplingTime(item.samplingTime, i)">
+          {{ item.samplingTime | date: 'dd-MM-yyyy hh:mm:ss a' }}
+        </li>
+      </ul>
+    </div>
+    <!---------------------End Sampling Time -------------------------->
+
+    <!---------------------Update Form-------------------------->
+
+    <div class="col-md-8">
+      <form [formGroup]="sampleForm" (ngSubmit)="saveData()">
+        <div class="form-group">
+          <label for="projectName">Project Name</label>
+          <input type="text" id="projectName" class="form-control" formControlName="projectName"
+            placeholder="Enter project name" />
+          <div *ngIf="sampleForm.get('projectName')?.invalid && sampleForm.get('projectName')?.touched"
+            class="text-danger">
+            Project Name is required.
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="constructionCount">Construction Count</label>
+          <input type="number" id="constructionCount" class="form-control" formControlName="constructionCount"
+            placeholder="Enter construction count" />
+        </div>
+
+        <div *ngIf="sampleForm.get('constructionCount')?.invalid && sampleForm.get('constructionCount')?.touched"
+          class="text-danger">
+          <div *ngIf="sampleForm.get('constructionCount')?.hasError('min')">
+            Length of road cannot be negative.
+          </div>
+          <div *ngIf="sampleForm.get('constructionCount')?.hasError('pattern')">
+            Only numbers are allowed.
+          </div>
+        </div>
+        <div class="form-group form-check">
+          <label class="switch">
+            <input type="checkbox" formControlName="isConstructionCompleted" id="isConstructionCompleted"
+              [checked]="sampleForm.get('isConstructionCompleted')?.value" />
+            <span class="slider round"></span>
+          </label>
+          <label for="isConstructionCompleted" class="form-check-label">
+            Is Construction Completed
+          </label>
+        </div>
+
+        <div class="form-group">
+          <label for="lengthOfRoad">Length of Road </label>
+          <input type="number" id="lengthOfRoad" class="form-control" formControlName="lengthOfRoad"
+            placeholder="Enter road length" />
+        </div>
+
+        <div *ngIf="sampleForm.get('lengthOfRoad')?.invalid && sampleForm.get('lengthOfRoad')?.touched"
+          class="text-danger">
+          <div *ngIf="sampleForm.get('lengthOfRoad')?.hasError('min')">
+            Length of road cannot be negative.
+          </div>
+          <div *ngIf="sampleForm.get('lengthOfRoad')?.hasError('pattern')">
+            Only numbers are allowed.
+          </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-3">Save</button>
+      </form>
+    </div>
+
+    <!---------------------End Update Form-------------------------->
+
+  </div>
+</div>
